@@ -1,14 +1,16 @@
 # Time to Lift
 
-A configurable gym timer. No adds, no login, no bullshit. Just gainz!
+A configurable gym timer. ⏱️ No adds, no login, no bullshit. Just gainz! 💪
 
-Hosted with ❤️ by GitHub pages. Thanks!
+https://time-to-lift.com
+
+Hosted with by GitHub pages. ❤️
 
 ## Features
 
 * Timer with configurable list of widgets
 * Three widget types
-  * Countdown widget ⬇️ pause
+  * Countdown widget with pause
   * Wait widget
   * Repeat widget
 * Pause
