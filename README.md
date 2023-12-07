@@ -1,6 +1,6 @@
 # Time to Lift
 
-A configurable gym timer. ⏱️ No adds, no login, no bullshit. Just gainz! 💪
+A configurable gym timer. ⏱️ No ads, no login, no bullshit. Just gainz! 💪
 
 https://time-to-lift.com
 
