@@ -4,7 +4,7 @@ A configurable gym timer. ⏱️ No ads, no login, no bullshit. Just gainz! 💪
 
 https://time-to-lift.com
 
-Hosted with by GitHub pages. ❤️
+Hosted with ❤️ by GitHub pages.
 
 ## Features
 
