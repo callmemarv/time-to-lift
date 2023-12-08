@@ -22,14 +22,16 @@ Hosted with ❤️ by GitHub pages.
 * Implement widget type Stopwatch in pink
 * Implement tests
 * Refactor and simplify code
+* Implement repeat widget the option to repeat all since last repeat
 * Add storybook
 * Add favicon and title
 * Write documentation
-* Choose licence
 * Ship as Progressive Web App
+* URL-encoded workouts
 
 ## Ideas
 
+* Make GitHub issues out of TODOs
 * Display past and upcoming widget in run mode
 * Use form validation instead of value ranges and defaults
 * Save timer to local storage
