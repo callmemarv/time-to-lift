@@ -16,8 +16,11 @@ Hosted with ❤️ by GitHub pages.
 * Pause
 * Wake lock
 
-## TODOs
+## TODO
 
+* Fix wake lock for mobile
+* Fix flash of unstyled content
+* Simplify deployment process
 * Configure countdown time in hours, minutes and seconds
 * Implement widget type Stopwatch in pink
 * Implement tests
