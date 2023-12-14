@@ -1,18 +1,16 @@
 import NoSleep from 'nosleep.js'
-import { useEffect } from 'react'
+import { PropsWithChildren, useState } from 'react'
 
-export function WakeLock() {
-  useEffect(() => {
-    const noSleep = new NoSleep()
-    noSleep.enable()
+export function WakeLock(props: PropsWithChildren) {
+  const [enabled, setEnabled] = useState(false)
 
-    console.log('enabled')
-
-    return () => {
-      noSleep.disable()
-      console.log('disabled')
+  function enableWakeLock() {
+    if (!enabled) {
+      const noSleep = new NoSleep()
+      noSleep.enable()
+        .then(() => setEnabled(true))
     }
-  })
+  }
 
-  return <></>
+  return <div onClick={enableWakeLock}>{props.children}</div>
 }

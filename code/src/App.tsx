@@ -5,7 +5,7 @@ import { FaGithub } from 'react-icons/fa6'
 
 export function App() {
   return (
-    <>
+    <WakeLock>
       <div className={'bg-slate-900 min-h-screen p-4 flex'}>
         <main className={'grow max-w-xs mx-auto text-slate-100 flex flex-col gap-2 justify-between items-center'}>
           <TimerPage/>
@@ -19,7 +19,6 @@ export function App() {
           </div>
         </main>
       </div>
-      <WakeLock/>
-    </>
+    </WakeLock>
   )
 }
