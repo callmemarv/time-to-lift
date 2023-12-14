@@ -18,13 +18,12 @@ Hosted with ❤️ by GitHub pages.
 
 ## TODO
 
-* Fix wake lock for mobile
-* Fix flash of unstyled content
 * Simplify deployment process
 * Configure countdown time in hours, minutes and seconds
 * Implement widget type Stopwatch in pink
 * Implement tests
 * Refactor and simplify code
+* Fix flash of unstyled content
 * Implement repeat widget the option to repeat all since last repeat
 * Add storybook
 * Add favicon and title
